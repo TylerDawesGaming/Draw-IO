@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T22:08:15.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Lx-S3AMqqYEFFY5wXdDe" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T22:37:32.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WCdFoMvNymxwQwuXHpbE" version="24.4.13" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1500" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,8 +457,8 @@
         <mxCell id="1457" value="Streptococcus" style="rounded=1;fillColor=#e6d0de;strokeColor=#996185;strokeWidth=3;shadow=0;html=1;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1646" y="1087" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1458" value="Echericia Colli" style="rounded=1;fillColor=#e6d0de;strokeColor=#996185;strokeWidth=3;shadow=0;html=1;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="1631" y="1301.5" width="120" height="40" as="geometry" />
+        <mxCell id="1458" value="Echericia Colli" style="rounded=1;fillColor=#e6d0de;strokeColor=#996185;strokeWidth=3;shadow=1;html=1;gradientColor=#d5739d;glass=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1681" y="1386.5" width="100" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="1459" value="Lactobacyllus" style="rounded=1;fillColor=#e6d0de;strokeColor=#996185;strokeWidth=3;shadow=0;html=1;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1801" y="1114" width="120" height="40" as="geometry" />
@@ -484,10 +484,10 @@
             <mxPoint x="351" y="-103.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1465" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#996185;html=1;fillColor=#e6d0de;gradientColor=#d5739d;" parent="1" source="1354" target="1458" edge="1">
+        <mxCell id="1465" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#996185;html=1;fillColor=#e6d0de;gradientColor=#d5739d;shadow=1;flowAnimation=0;jumpStyle=gap;dashed=1;dashPattern=1 1;startArrow=none;startFill=0;endFill=0;opacity=80;jumpSize=3;" parent="1" source="eUeaxhclnZeXXgq2JGaq-1542" target="1458" edge="1">
           <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
-            <mxPoint x="251" y="-3.5" as="sourcePoint" />
-            <mxPoint x="351" y="-103.5" as="targetPoint" />
+            <mxPoint x="1738.8477105049515" y="1291.703129171302" as="sourcePoint" />
+            <mxPoint x="1711.0042857142853" y="1389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1466" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#996185;html=1;fillColor=#e6d0de;gradientColor=#d5739d;" parent="1" source="1354" target="1462" edge="1">
@@ -840,6 +840,15 @@
             <mxPoint x="561" y="392" as="sourcePoint" />
             <mxPoint x="506" y="477" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eUeaxhclnZeXXgq2JGaq-1543" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#996185;html=1;fillColor=#e6d0de;gradientColor=#d5739d;" edge="1" parent="1" source="1354">
+          <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
+            <mxPoint x="1718.7957083768686" y="1280.3240082723842" as="sourcePoint" />
+            <mxPoint x="1690.9955813953486" y="1319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUeaxhclnZeXXgq2JGaq-1542" value="Staphyllococcus" style="rounded=1;fillColor=#e6d0de;strokeColor=#FFB800;strokeWidth=5;shadow=0;html=1;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="1319" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
