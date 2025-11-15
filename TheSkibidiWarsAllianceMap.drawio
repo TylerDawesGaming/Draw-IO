@@ -372,15 +372,6 @@
         <mxCell id="xKUbVJDYEddzNCBTZSt2-115" value="Scientist" style="ellipse;shadow=1;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1770.0000000000002" y="490" width="93.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xKUbVJDYEddzNCBTZSt2-116" value="Normal Scientist TV Man" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="596.5" width="110" height="29.75" as="geometry" />
-        </mxCell>
-        <mxCell id="xKUbVJDYEddzNCBTZSt2-117" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B300FF;fillColor=#dae8fc;shadow=1;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;" parent="1" source="xKUbVJDYEddzNCBTZSt2-115" target="xKUbVJDYEddzNCBTZSt2-116" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="1770" y="530" as="sourcePoint" />
-            <mxPoint x="1790" y="533" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xKUbVJDYEddzNCBTZSt2-118" value="Scientist TV Man" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1870" y="560" width="110" height="29.75" as="geometry" />
         </mxCell>
@@ -497,16 +488,16 @@
           <mxGeometry x="1560" y="292.63" width="70" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="xKUbVJDYEddzNCBTZSt2-144" value="Normal TV Man" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="249.75" width="110" height="29.75" as="geometry" />
+          <mxGeometry x="1410" y="284.75" width="110" height="29.75" as="geometry" />
         </mxCell>
-        <mxCell id="xKUbVJDYEddzNCBTZSt2-145" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B300FF;fillColor=#dae8fc;shadow=1;rounded=0;curved=0;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;" parent="1" source="xKUbVJDYEddzNCBTZSt2-143" target="xKUbVJDYEddzNCBTZSt2-144" edge="1">
+        <mxCell id="xKUbVJDYEddzNCBTZSt2-145" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B300FF;fillColor=#dae8fc;shadow=1;rounded=0;curved=0;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKUbVJDYEddzNCBTZSt2-143" target="xUxxKAZQFfaqac3JoZpl-2" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
             <mxPoint x="1651" y="371" as="sourcePoint" />
             <mxPoint x="1632" y="357" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKUbVJDYEddzNCBTZSt2-149" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B300FF;fillColor=#dae8fc;shadow=1;rounded=0;curved=0;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;" parent="1" source="xKUbVJDYEddzNCBTZSt2-140" target="xKUbVJDYEddzNCBTZSt2-150" edge="1">
+        <mxCell id="xKUbVJDYEddzNCBTZSt2-149" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B300FF;fillColor=#dae8fc;shadow=1;rounded=0;curved=0;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKUbVJDYEddzNCBTZSt2-140" target="xUxxKAZQFfaqac3JoZpl-1" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
             <mxPoint x="1823" y="431" as="sourcePoint" />
             <mxPoint x="1864" y="460" as="targetPoint" />
@@ -1038,6 +1029,12 @@
         </mxCell>
         <mxCell id="xKUbVJDYEddzNCBTZSt2-288" value="and Laptopmen" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1661.75" y="1030.25" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUxxKAZQFfaqac3JoZpl-1" value="Large TV Man 2.0" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="434.25" width="110" height="29.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xUxxKAZQFfaqac3JoZpl-2" value="Normal TV Man 2.0" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="314.5" width="110" height="29.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
