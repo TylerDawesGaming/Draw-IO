@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 OPR/123.0.0.0 (Edition std-2)" version="29.0.2">
   <diagram name="Page-1" id="EJv-mX63-Ph_eYeZ6Ill">
-    <mxGraphModel dx="2512" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1038,15 +1038,6 @@
         </mxCell>
         <mxCell id="xKUbVJDYEddzNCBTZSt2-288" value="and Laptopmen" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1661.75" y="1030.25" width="96.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4ALykgXQosxWg1mf7PJm-1" value="Large Scientist Speakerman" style="rounded=1;fillColor=#FC0000;strokeColor=#6B0000;gradientColor=#B30000;strokeWidth=3;shadow=1;glass=0;fontColor=#FFFFFF;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="490.25" width="110" height="29.75" as="geometry" />
-        </mxCell>
-        <mxCell id="4ALykgXQosxWg1mf7PJm-2" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#FF0000;fillColor=#dae8fc;shadow=1;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;" parent="1" source="4ALykgXQosxWg1mf7PJm-1" target="xKUbVJDYEddzNCBTZSt2-268" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="1120" y="540" as="sourcePoint" />
-            <mxPoint x="1092" y="533" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
