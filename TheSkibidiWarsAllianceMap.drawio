@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 OPR/123.0.0.0 (Edition std-2)" version="29.0.2">
   <diagram name="Page-1" id="EJv-mX63-Ph_eYeZ6Ill">
-    <mxGraphModel dx="1847" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2807" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,15 +190,6 @@
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
             <mxPoint x="851" y="564" as="sourcePoint" />
             <mxPoint x="820" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xKUbVJDYEddzNCBTZSt2-72" value="Speaker Helicopter" style="rounded=1;fillColor=#FC0000;strokeColor=#6B0000;gradientColor=#B30000;strokeWidth=3;shadow=1;glass=0;fontColor=#FFFFFF;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="640" y="560" width="110" height="29.75" as="geometry" />
-        </mxCell>
-        <mxCell id="xKUbVJDYEddzNCBTZSt2-73" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#FF0000;fillColor=#dae8fc;shadow=1;fontStyle=1;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;" parent="1" source="xKUbVJDYEddzNCBTZSt2-72" target="xKUbVJDYEddzNCBTZSt2-34" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="780" y="610" as="sourcePoint" />
-            <mxPoint x="785" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xKUbVJDYEddzNCBTZSt2-74" value="Retro Speaker Helicopter" style="rounded=1;fillColor=#FC0000;strokeColor=#6B0000;gradientColor=#B30000;strokeWidth=3;shadow=1;glass=0;fontColor=#FFFFFF;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
@@ -1030,10 +1021,10 @@
         <mxCell id="xKUbVJDYEddzNCBTZSt2-288" value="and Laptopmen" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1661.75" y="1030.25" width="96.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xUxxKAZQFfaqac3JoZpl-1" value="Large TV Man 2.0" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xUxxKAZQFfaqac3JoZpl-1" value="Large TV Man 2.0" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1860" y="434.25" width="110" height="29.75" as="geometry" />
         </mxCell>
-        <mxCell id="xUxxKAZQFfaqac3JoZpl-2" value="Normal TV Man 2.0" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xUxxKAZQFfaqac3JoZpl-2" value="Normal TV Man 2.0" style="rounded=1;fillColor=#C100FC;strokeColor=#61008A;gradientColor=#8A0077;strokeWidth=3;shadow=1;glass=0;fontColor=#F2F2F2;fontStyle=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1410" y="314.5" width="110" height="29.75" as="geometry" />
         </mxCell>
       </root>
